@@ -34,11 +34,14 @@ I am working on obtaining the IBM Full Stack Developer Certification through Cou
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## 📫 Connect with me
-<p>
+## 
+
+<h3 align="center">Connect with me</h3>
+<p align="center">
 <a href="https://linkedin.com/in/brian-v-mohr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brianmohr" height="30" width="40" /></a>
 </p>
-
+<br />
+<hr />
 
 
 
