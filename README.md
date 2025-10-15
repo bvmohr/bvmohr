@@ -1,6 +1,6 @@
 ## 👋 Hello World! 
 
-My name is Brian Mohr, and I am a recent computer science and mathematics graduate looking for a software development role! It has been a goal of mine to build up my professional [portfolio](bvmohr.github.io/BMohr-portfolio/). Feel free to look around and see what I am up to!!
+My name is Brian Mohr, and I am a recent computer science and mathematics graduate looking for a software development role! It has been a goal of mine to build up my professional [portfolio](https://bvmohr.github.io/BMohr-portfolio/). Feel free to look around and see what I am up to!!
 
 ## 🔭 What I am working on
 
