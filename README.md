@@ -10,7 +10,7 @@
 
 # Hello, World!
 
-I am a passionate software developer trying to learn as much as I can! I have plenty of project ideas that I plan to implement and share with you all. It is important to me that each project uses different languages and tools so that I can become a well-rounded developer.
+I am a passionate software developer trying to learn as much as I can! I have plenty of project ideas that I plan to implement and share with you all.
 
 ## Currently...
 
@@ -19,10 +19,6 @@ I want to develop a full-stack application using a [MERN](https://www.geeksforge
 ## In the future...
 
 I want to develop more RESTful APIs and possibly explore the realm of indie games. When it comes to projects, I seem to have ADHD as I get distracted by different tools and ideas every week. I hope to make more of my projects public so that I can help others and receive feedback! 
-
-## Disclaimer
-
-While generative AI is very useful, I will not *copy and paste* AI solutions. I am developing these projects with the intent of *learning*. After all, what kind of developer would I be if I can't understand my own code? 
 
 
 Thanks for checking out my profile! Feel free to browse my repositories. 
