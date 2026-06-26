@@ -23,8 +23,8 @@ I am a passionate software developer driven by curiosity and a desire to build i
 
 ### What I'm Up To
 
-* **Currently Building:** `Workout Pro` – A full-stack, personalized daily fitness journal and tracker built with **React** and **Express.js**.
-* **Learning & Exploring:** Deepening my knowledge of full-stack architectures, database management, and RESTful API design.
+* **Currently Building:** `Workout Pro` – A full-stack, personalized daily fitness journal utilizing Google's Antigravity IDE.
+* **Learning & Exploring:** Deepening my knowledge of full-stack architectures, RESTful API design, and machine learning.
 * **Future Interests:** Building robust backends, exploring game development, and contributing to open-source initiatives.
 
 > **Fun Fact:** I have a massive backlog of project ideas and a habit of diving down rabbit holes with new tools every week. I call it a high-velocity learning style!
